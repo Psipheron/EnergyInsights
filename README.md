@@ -19,7 +19,7 @@ AI-powered energy infrastructure analysis and planning platform. Visualize power
 ### Backend
 - **FastAPI** : Modern Python web framework
 - **Groq API** : Llama 3.3 70B for AI analysis
-- **Uvicorn** : ASGI server
+- **Uvicorn** : ASGI server 
 
 ### Frontend
 - **React 19** : UI framework
